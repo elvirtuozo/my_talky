@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">556901992998-2c1cha1ujgha8bit5t33s1gc3sb02omk.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">556901992998</string>
+    <string name="google_api_key" translatable="false">AIzaSyCi0zfk27u5DRGUOvIXt1FAKWRJ4iEENTs</string>
+    <string name="google_app_id" translatable="false">1:556901992998:android:62e5233c9f31ca1df134e7</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCi0zfk27u5DRGUOvIXt1FAKWRJ4iEENTs</string>
+    <string name="google_storage_bucket" translatable="false">talky-76000.appspot.com</string>
+    <string name="project_id" translatable="false">talky-76000</string>
+</resources>

@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "E:\\studioProjects\\talky\\build\\app\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_talky_icon.png.flat",
+        "source": "E:\\studioProjects\\talky\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\talky_icon.png"
+    },
+    {
+        "merged": "E:\\studioProjects\\talky\\build\\app\\intermediates\\merged_res\\debug\\mipmap-hdpi_talky_icon.png.flat",
+        "source": "E:\\studioProjects\\talky\\android\\app\\src\\main\\res\\mipmap-hdpi\\talky_icon.png"
+    },
+    {
+        "merged": "E:\\studioProjects\\talky\\build\\app\\intermediates\\merged_res\\debug\\mipmap-mdpi_talky_icon.png.flat",
+        "source": "E:\\studioProjects\\talky\\android\\app\\src\\main\\res\\mipmap-mdpi\\talky_icon.png"
+    },
+    {
+        "merged": "E:\\studioProjects\\talky\\build\\app\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\studioProjects\\talky\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\studioProjects\\talky\\build\\app\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\studioProjects\\talky\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\studioProjects\\talky\\build\\app\\intermediates\\merged_res\\debug\\drawable-v21_launch_background.xml.flat",
+        "source": "E:\\studioProjects\\talky\\android\\app\\src\\main\\res\\drawable-v21\\launch_background.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\talky\\build\\app\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\studioProjects\\talky\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\studioProjects\\talky\\build\\app\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\studioProjects\\talky\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\studioProjects\\talky\\build\\app\\intermediates\\merged_res\\debug\\mipmap-xhdpi_talky_icon.png.flat",
+        "source": "E:\\studioProjects\\talky\\android\\app\\src\\main\\res\\mipmap-xhdpi\\talky_icon.png"
+    },
+    {
+        "merged": "E:\\studioProjects\\talky\\build\\app\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\studioProjects\\talky\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\studioProjects\\talky\\build\\app\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_talky_icon.png.flat",
+        "source": "E:\\studioProjects\\talky\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\talky_icon.png"
+    }
+]

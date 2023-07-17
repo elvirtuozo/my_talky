@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\studioProjects\\talky\\build\\flutter_sound\\intermediates\\merged_res\\release\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\nassi\\.gradle\\caches\\transforms-3\\e947a34c1a75845a9ea3b4b0130091ce\\transformed\\appcompat-1.2.0\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\talky\\build\\flutter_sound\\intermediates\\merged_res\\release\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\nassi\\.gradle\\caches\\transforms-3\\dabcda68851483edc65f4d3af38ff3f1\\transformed\\core-1.6.0\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\talky\\build\\flutter_sound\\intermediates\\merged_res\\release\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\nassi\\.gradle\\caches\\transforms-3\\e947a34c1a75845a9ea3b4b0130091ce\\transformed\\appcompat-1.2.0\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\talky\\build\\flutter_sound\\intermediates\\merged_res\\release\\drawable-v21\\abc_list_divider_material.xml",
+        "source": "C:\\Users\\nassi\\.gradle\\caches\\transforms-3\\e947a34c1a75845a9ea3b4b0130091ce\\transformed\\appcompat-1.2.0\\res\\drawable-v21\\abc_list_divider_material.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\talky\\build\\flutter_sound\\intermediates\\merged_res\\release\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\nassi\\.gradle\\caches\\transforms-3\\e947a34c1a75845a9ea3b4b0130091ce\\transformed\\appcompat-1.2.0\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\talky\\build\\flutter_sound\\intermediates\\merged_res\\release\\drawable-v21\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\nassi\\.gradle\\caches\\transforms-3\\e947a34c1a75845a9ea3b4b0130091ce\\transformed\\appcompat-1.2.0\\res\\drawable-v21\\abc_dialog_material_background.xml"
+    }
+]
